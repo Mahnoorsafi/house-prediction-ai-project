@@ -1,4 +1,4 @@
-﻿altair==5.5.0
+altair==5.5.0
 attrs==25.1.0
 blinker==1.9.0
 cachetools==5.5.2
@@ -48,5 +48,3 @@ typing_extensions==4.12.2
 tzdata==2025.1
 urllib3==2.3.0
 watchdog==6.0.0
-plotly==5.19.0
-statsmodels==0.14.1
